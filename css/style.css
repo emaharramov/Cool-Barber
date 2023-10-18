@@ -305,9 +305,7 @@ nav {
     margin: 0 auto 5px auto;
     width: 380px;
 }
-#number {
-    align-self: center;
-}
+#number { align-self: center; }
 .font {
     font: 1em 'Montserrat';
     color: #fff;
