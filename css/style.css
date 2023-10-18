@@ -336,10 +336,6 @@ nav {
     font: .8em 'Fira Sans';
     color: #efe7e2;
 }
-.fa-circle-arrow-up {
-    color: #FF6E40;
-    display: none;
-}
 @media only screen and (min-width: 992px) {
     html {
         scroll-behavior: smooth;
