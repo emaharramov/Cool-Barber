@@ -501,12 +501,5 @@ nav {
         height: 50vh;
         margin-top: -240px;
     }
-    .fa-circle-arrow-up {
-        color: #FF6E40;
-        position: fixed;
-        right: 50px;
-        bottom: 100px;
-        visibility: visible;
-    }
    
 }
