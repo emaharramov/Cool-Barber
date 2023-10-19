@@ -175,7 +175,7 @@ nav {
     padding: 18.5px 51px;
     background-color: #FF6E40;
     border: none;
-    width: 100%;
+    width: 80%;
     margin: 40px auto 0 auto;
 }
 #instagram {
@@ -442,7 +442,7 @@ nav {
         padding-bottom: 120px;
     }
     #masterpieces, #instagram {cursor: pointer;}
-    #masterpieces {margin: auto;}
+    #masterpieces {max-width: 480px; margin: auto;}
     #img {max-width: 280px;}
     .cards {
         display: flex; 
