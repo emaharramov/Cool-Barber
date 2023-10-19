@@ -55,6 +55,9 @@ nav {
     justify-content: space-around;
 }
 #headerpart2 { 
+    position: absolute;
+    left: 0;
+    right: 0;
     display: flex;  
     flex-direction: column; 
     justify-content: space-between; 
@@ -172,7 +175,7 @@ nav {
     padding: 18.5px 51px;
     background-color: #FF6E40;
     border: none;
-    width: 432px;
+    width: 100%;
     margin: 40px auto 0 auto;
 }
 #instagram {
