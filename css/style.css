@@ -404,6 +404,7 @@ nav {
         display: grid;
         grid-template-columns: auto auto;
         max-width: 1180px;
+        margin: auto;
         gap: 10px;
     }
     #grid1 {
