@@ -439,7 +439,6 @@ nav {
     }
     #sec2-2 {
         flex-direction: row;
-        max-width: 678px;
         padding-bottom: 120px;
     }
     #masterpieces, #instagram {cursor: pointer;}
